@@ -12,7 +12,7 @@ alias mroe="less -E"
 alias more="less -E"
 alias h='history'
 alias vi='vim'
-alias bd='cd ~/Documents/_PRG/BigDog'
+alias bd='cd ~/Documents/_PRG/_BigDog25'
 
 # Development Aliases
 alias gitx='gitx -c'
