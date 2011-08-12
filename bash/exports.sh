@@ -12,6 +12,7 @@ export PATH=\
 /usr/local/sbin:\
 /usr/pkg/bin:\
 /usr/sbin:\
+/Developer/usr/bin:\
 $PATH
 
 export HISTCONTROL=ignoreboth # don't put duplicate lines in the history and
